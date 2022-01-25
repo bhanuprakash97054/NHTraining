@@ -1,0 +1,11 @@
+C:\krish\c#\desktop apowerb\desktop apowerb\bin\Debug\desktop apowerb.exe.config
+C:\krish\c#\desktop apowerb\desktop apowerb\bin\Debug\desktop apowerb.exe
+C:\krish\c#\desktop apowerb\desktop apowerb\bin\Debug\desktop apowerb.pdb
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.csproj.AssemblyReference.cache
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop_apowerb.Form1.resources
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop_apowerb.Properties.Resources.resources
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.csproj.GenerateResource.cache
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.csproj.CoreCompileInputs.cache
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.exe
+C:\krish\c#\desktop apowerb\desktop apowerb\obj\Debug\desktop apowerb.pdb

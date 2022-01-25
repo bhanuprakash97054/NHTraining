@@ -1,0 +1,11 @@
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.csproj.AssemblyReference.cache
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.Form1.resources
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.Properties.Resources.resources
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.csproj.GenerateResource.cache
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.csproj.CoreCompileInputs.cache
+C:\krish\c#\desktopaddition\desktopaddition\bin\Debug\desktopaddition.exe.config
+C:\krish\c#\desktopaddition\desktopaddition\bin\Debug\desktopaddition.exe
+C:\krish\c#\desktopaddition\desktopaddition\bin\Debug\desktopaddition.pdb
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.exe
+C:\krish\c#\desktopaddition\desktopaddition\obj\Debug\desktopaddition.pdb
