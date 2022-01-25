@@ -4,17 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace forloop
+namespace _1_10_byusingloop_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
-            for (int i = 1; i < 6; i++)
+            for (int i = 1; i < 11; i++)
             {
-
-                Console.WriteLine($"hello world {i}");   
+                Console.WriteLine(i);
             }
         }
     }

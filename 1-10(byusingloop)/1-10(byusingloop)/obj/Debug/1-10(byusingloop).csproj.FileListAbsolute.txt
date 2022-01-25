@@ -1,0 +1,8 @@
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\bin\Debug\1-10(byusingloop).exe.config
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\bin\Debug\1-10(byusingloop).exe
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\bin\Debug\1-10(byusingloop).pdb
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\obj\Debug\1-10(byusingloop).csproj.AssemblyReference.cache
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\obj\Debug\1-10(byusingloop).csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\obj\Debug\1-10(byusingloop).csproj.CoreCompileInputs.cache
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\obj\Debug\1-10(byusingloop).exe
+C:\krish\c#\1-10(byusingloop)\1-10(byusingloop)\obj\Debug\1-10(byusingloop).pdb
