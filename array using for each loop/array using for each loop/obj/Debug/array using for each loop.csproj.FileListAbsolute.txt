@@ -1,0 +1,8 @@
+C:\krish\c#\array using for each loop\array using for each loop\bin\Debug\array using for each loop.exe.config
+C:\krish\c#\array using for each loop\array using for each loop\bin\Debug\array using for each loop.exe
+C:\krish\c#\array using for each loop\array using for each loop\bin\Debug\array using for each loop.pdb
+C:\krish\c#\array using for each loop\array using for each loop\obj\Debug\array using for each loop.csproj.AssemblyReference.cache
+C:\krish\c#\array using for each loop\array using for each loop\obj\Debug\array using for each loop.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\array using for each loop\array using for each loop\obj\Debug\array using for each loop.csproj.CoreCompileInputs.cache
+C:\krish\c#\array using for each loop\array using for each loop\obj\Debug\array using for each loop.exe
+C:\krish\c#\array using for each loop\array using for each loop\obj\Debug\array using for each loop.pdb

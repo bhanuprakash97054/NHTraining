@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56dd8694-187e-4096-87c5-17e66c2bb5f1": {
+      "ProjectGuid": "56dd8694-187e-4096-87c5-17e66c2bb5f1",
+      "DisplayName": "print sum and avg by using array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

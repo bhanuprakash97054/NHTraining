@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bed8439f-4702-4d03-bcd1-8ea85244a067": {
+      "ProjectGuid": "bed8439f-4702-4d03-bcd1-8ea85244a067",
+      "DisplayName": "vowels or not using switch case",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

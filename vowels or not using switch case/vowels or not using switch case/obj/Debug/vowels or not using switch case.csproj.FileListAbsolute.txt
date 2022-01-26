@@ -1,0 +1,8 @@
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\bin\Debug\vowels or not using switch case.exe.config
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\bin\Debug\vowels or not using switch case.exe
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\bin\Debug\vowels or not using switch case.pdb
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\obj\Debug\vowels or not using switch case.csproj.AssemblyReference.cache
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\obj\Debug\vowels or not using switch case.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\obj\Debug\vowels or not using switch case.csproj.CoreCompileInputs.cache
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\obj\Debug\vowels or not using switch case.exe
+C:\krish\c#\vowels or not using switch case\vowels or not using switch case\obj\Debug\vowels or not using switch case.pdb

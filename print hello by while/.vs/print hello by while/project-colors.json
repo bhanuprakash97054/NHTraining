@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cd089c8-fccc-4518-b61e-515de8236866": {
+      "ProjectGuid": "6cd089c8-fccc-4518-b61e-515de8236866",
+      "DisplayName": "print hello by while",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

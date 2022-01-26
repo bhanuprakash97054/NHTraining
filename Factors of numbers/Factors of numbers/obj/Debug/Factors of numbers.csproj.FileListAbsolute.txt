@@ -1,0 +1,7 @@
+C:\krish\c#\Factors of numbers\Factors of numbers\bin\Debug\Factors of numbers.exe.config
+C:\krish\c#\Factors of numbers\Factors of numbers\bin\Debug\Factors of numbers.exe
+C:\krish\c#\Factors of numbers\Factors of numbers\bin\Debug\Factors of numbers.pdb
+C:\krish\c#\Factors of numbers\Factors of numbers\obj\Debug\Factors of numbers.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Factors of numbers\Factors of numbers\obj\Debug\Factors of numbers.csproj.CoreCompileInputs.cache
+C:\krish\c#\Factors of numbers\Factors of numbers\obj\Debug\Factors of numbers.exe
+C:\krish\c#\Factors of numbers\Factors of numbers\obj\Debug\Factors of numbers.pdb

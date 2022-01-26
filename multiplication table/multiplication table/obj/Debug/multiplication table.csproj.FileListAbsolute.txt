@@ -1,0 +1,7 @@
+C:\krish\c#\multiplication table\multiplication table\bin\Debug\multiplication table.exe.config
+C:\krish\c#\multiplication table\multiplication table\bin\Debug\multiplication table.exe
+C:\krish\c#\multiplication table\multiplication table\bin\Debug\multiplication table.pdb
+C:\krish\c#\multiplication table\multiplication table\obj\Debug\multiplication table.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\multiplication table\multiplication table\obj\Debug\multiplication table.csproj.CoreCompileInputs.cache
+C:\krish\c#\multiplication table\multiplication table\obj\Debug\multiplication table.exe
+C:\krish\c#\multiplication table\multiplication table\obj\Debug\multiplication table.pdb

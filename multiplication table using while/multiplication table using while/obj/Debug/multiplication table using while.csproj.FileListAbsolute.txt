@@ -1,0 +1,7 @@
+C:\krish\c#\multiplication table using while\multiplication table using while\bin\Debug\multiplication table using while.exe.config
+C:\krish\c#\multiplication table using while\multiplication table using while\bin\Debug\multiplication table using while.exe
+C:\krish\c#\multiplication table using while\multiplication table using while\bin\Debug\multiplication table using while.pdb
+C:\krish\c#\multiplication table using while\multiplication table using while\obj\Debug\multiplication table using while.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\multiplication table using while\multiplication table using while\obj\Debug\multiplication table using while.csproj.CoreCompileInputs.cache
+C:\krish\c#\multiplication table using while\multiplication table using while\obj\Debug\multiplication table using while.exe
+C:\krish\c#\multiplication table using while\multiplication table using while\obj\Debug\multiplication table using while.pdb

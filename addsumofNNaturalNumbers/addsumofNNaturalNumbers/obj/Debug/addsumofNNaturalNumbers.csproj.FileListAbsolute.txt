@@ -1,0 +1,8 @@
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\bin\Debug\addsumofNNaturalNumbers.exe.config
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\bin\Debug\addsumofNNaturalNumbers.exe
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\bin\Debug\addsumofNNaturalNumbers.pdb
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\obj\Debug\addsumofNNaturalNumbers.csproj.AssemblyReference.cache
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\obj\Debug\addsumofNNaturalNumbers.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\obj\Debug\addsumofNNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\obj\Debug\addsumofNNaturalNumbers.exe
+C:\krish\c#\addsumofNNaturalNumbers\addsumofNNaturalNumbers\obj\Debug\addsumofNNaturalNumbers.pdb

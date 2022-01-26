@@ -1,0 +1,8 @@
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\bin\Debug\print sum and avg by using array.exe.config
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\bin\Debug\print sum and avg by using array.exe
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\bin\Debug\print sum and avg by using array.pdb
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\obj\Debug\print sum and avg by using array.csproj.AssemblyReference.cache
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\obj\Debug\print sum and avg by using array.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\obj\Debug\print sum and avg by using array.csproj.CoreCompileInputs.cache
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\obj\Debug\print sum and avg by using array.exe
+C:\krish\c#\print sum and avg by using array\print sum and avg by using array\obj\Debug\print sum and avg by using array.pdb

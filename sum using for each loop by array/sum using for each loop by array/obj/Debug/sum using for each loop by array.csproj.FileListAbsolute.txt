@@ -1,0 +1,7 @@
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\bin\Debug\sum using for each loop by array.exe.config
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\bin\Debug\sum using for each loop by array.exe
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\bin\Debug\sum using for each loop by array.pdb
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\obj\Debug\sum using for each loop by array.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\obj\Debug\sum using for each loop by array.csproj.CoreCompileInputs.cache
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\obj\Debug\sum using for each loop by array.exe
+C:\krish\c#\sum using for each loop by array\sum using for each loop by array\obj\Debug\sum using for each loop by array.pdb

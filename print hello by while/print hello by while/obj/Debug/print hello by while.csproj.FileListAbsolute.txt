@@ -1,0 +1,7 @@
+C:\krish\c#\print hello by while\print hello by while\bin\Debug\print hello by while.exe.config
+C:\krish\c#\print hello by while\print hello by while\bin\Debug\print hello by while.exe
+C:\krish\c#\print hello by while\print hello by while\bin\Debug\print hello by while.pdb
+C:\krish\c#\print hello by while\print hello by while\obj\Debug\print hello by while.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\print hello by while\print hello by while\obj\Debug\print hello by while.csproj.CoreCompileInputs.cache
+C:\krish\c#\print hello by while\print hello by while\obj\Debug\print hello by while.exe
+C:\krish\c#\print hello by while\print hello by while\obj\Debug\print hello by while.pdb

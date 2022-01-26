@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9bbaa8b-cfa8-4bc4-84c3-29e7cdcb0ea8": {
+      "ProjectGuid": "a9bbaa8b-cfa8-4bc4-84c3-29e7cdcb0ea8",
+      "DisplayName": "Factorialof Numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

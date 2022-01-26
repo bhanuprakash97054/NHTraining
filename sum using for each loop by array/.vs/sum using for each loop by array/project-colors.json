@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3af9f46c-b19b-41dd-9ce5-d139d3deb170": {
+      "ProjectGuid": "3af9f46c-b19b-41dd-9ce5-d139d3deb170",
+      "DisplayName": "sum using for each loop by array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
