@@ -5,3 +5,4 @@ C:\krish\c#\day 6 assignment\implicit and explicit type casting\implicit and exp
 C:\krish\c#\day 6 assignment\implicit and explicit type casting\implicit and explicit type casting\obj\Debug\implicit and explicit type casting.csproj.CoreCompileInputs.cache
 C:\krish\c#\day 6 assignment\implicit and explicit type casting\implicit and explicit type casting\obj\Debug\implicit and explicit type casting.exe
 C:\krish\c#\day 6 assignment\implicit and explicit type casting\implicit and explicit type casting\obj\Debug\implicit and explicit type casting.pdb
+C:\krish\c#\day 6 assignment\implicit and explicit type casting\implicit and explicit type casting\obj\Debug\implicit and explicit type casting.csproj.AssemblyReference.cache

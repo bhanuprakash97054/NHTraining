@@ -11,7 +11,7 @@ namespace Listint_and_read_5_values
         static void Main(string[] args)
         {
             List<int> data = new List<int>();
-            int sum = 0;
+            int sum1 = 0,sum2 = 0,sum3 = 0; 
             data.Add(1);
             data.Add(2);
             data.Add(3);
@@ -20,12 +20,15 @@ namespace Listint_and_read_5_values
             data.Add(6);
             //using for loop
             for (int i = 0; i < data.Count; i++)
-                Console.WriteLine(data[i]);
+                sum1=sum1+data[i];
+                Console.WriteLine($"by using forloop {sum1}");
             //using foreach loop
             foreach (var d in data)
-                Console.WriteLine(d);
-            //using lambda
-            data.ForEach(d => Console.WriteLine(d));
+                sum2=sum2+d;    
+                Console.WriteLine($"by using foreach loop {sum2}");
+            //using lambda         
+            data.ForEach(d => sum3 = sum3 + d ) ;
+            Console.WriteLine($"by using lambda {sum3}");
             Console.ReadLine();
         }
     }

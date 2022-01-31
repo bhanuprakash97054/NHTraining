@@ -20,7 +20,7 @@ namespace declare_List_and_assign_some_values
             data.Add(6);
             foreach (int i in data) 
                 sum=sum+i;  
-            Console.WriteLine(sum);
+            Console.WriteLine($"List of sum is {sum}");
             Console.ReadLine();
 
         }

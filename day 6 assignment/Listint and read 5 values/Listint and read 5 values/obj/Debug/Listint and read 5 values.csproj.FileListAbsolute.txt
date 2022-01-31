@@ -5,3 +5,4 @@ C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values
 C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.csproj.CoreCompileInputs.cache
 C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.exe
 C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.pdb
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.csproj.AssemblyReference.cache

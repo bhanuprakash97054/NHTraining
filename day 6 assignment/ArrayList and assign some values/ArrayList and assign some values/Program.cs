@@ -20,7 +20,8 @@ namespace ArrayList_and_assign_some_values
             data.Add(35);
             foreach (var d in data) 
             sum = sum + (int)d;
-            Console.WriteLine(sum);
+
+            Console.WriteLine($"sum of ArrayList is {sum}");
             Console.ReadLine(); 
         }
     }
