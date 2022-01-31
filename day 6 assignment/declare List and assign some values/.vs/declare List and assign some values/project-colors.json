@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e99a1ed-b1d4-4509-a9c5-6a861613e573": {
+      "ProjectGuid": "8e99a1ed-b1d4-4509-a9c5-6a861613e573",
+      "DisplayName": "declare List and assign some values",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\bin\Debug\Listint and read 5 values.exe.config
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\bin\Debug\Listint and read 5 values.exe
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\bin\Debug\Listint and read 5 values.pdb
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.csproj.CoreCompileInputs.cache
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.exe
+C:\krish\c#\day 6 assignment\Listint and read 5 values\Listint and read 5 values\obj\Debug\Listint and read 5 values.pdb

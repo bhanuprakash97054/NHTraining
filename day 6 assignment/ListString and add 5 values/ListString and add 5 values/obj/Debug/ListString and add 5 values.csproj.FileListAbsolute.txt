@@ -1,0 +1,8 @@
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\bin\Debug\ListString and add 5 values.exe.config
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\bin\Debug\ListString and add 5 values.exe
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\bin\Debug\ListString and add 5 values.pdb
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\obj\Debug\ListString and add 5 values.csproj.AssemblyReference.cache
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\obj\Debug\ListString and add 5 values.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\obj\Debug\ListString and add 5 values.csproj.CoreCompileInputs.cache
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\obj\Debug\ListString and add 5 values.exe
+C:\krish\c#\day 6 assignment\ListString and add 5 values\ListString and add 5 values\obj\Debug\ListString and add 5 values.pdb

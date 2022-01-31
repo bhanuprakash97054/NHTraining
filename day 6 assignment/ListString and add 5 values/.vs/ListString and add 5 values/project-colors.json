@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec9e959f-f951-482b-9fe4-ab56f732d902": {
+      "ProjectGuid": "ec9e959f-f951-482b-9fe4-ab56f732d902",
+      "DisplayName": "ListString and add 5 values",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

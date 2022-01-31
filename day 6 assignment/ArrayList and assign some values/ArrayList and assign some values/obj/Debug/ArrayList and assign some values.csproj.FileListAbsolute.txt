@@ -1,0 +1,8 @@
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\bin\Debug\ArrayList and assign some values.exe.config
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\bin\Debug\ArrayList and assign some values.exe
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\bin\Debug\ArrayList and assign some values.pdb
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\obj\Debug\ArrayList and assign some values.csproj.AssemblyReference.cache
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\obj\Debug\ArrayList and assign some values.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\obj\Debug\ArrayList and assign some values.csproj.CoreCompileInputs.cache
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\obj\Debug\ArrayList and assign some values.exe
+C:\krish\c#\day 6 assignment\ArrayList and assign some values\ArrayList and assign some values\obj\Debug\ArrayList and assign some values.pdb

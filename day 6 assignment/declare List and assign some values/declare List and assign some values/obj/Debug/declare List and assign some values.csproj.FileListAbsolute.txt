@@ -1,0 +1,7 @@
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\bin\Debug\declare List and assign some values.exe.config
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\bin\Debug\declare List and assign some values.exe
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\bin\Debug\declare List and assign some values.pdb
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\obj\Debug\declare List and assign some values.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\obj\Debug\declare List and assign some values.csproj.CoreCompileInputs.cache
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\obj\Debug\declare List and assign some values.exe
+C:\krish\c#\day 6 assignment\declare List and assign some values\declare List and assign some values\obj\Debug\declare List and assign some values.pdb

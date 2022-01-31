@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24d82419-b7ce-4752-a34b-471bce70c4f3": {
+      "ProjectGuid": "24d82419-b7ce-4752-a34b-471bce70c4f3",
+      "DisplayName": "implicit and explicit type casting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
