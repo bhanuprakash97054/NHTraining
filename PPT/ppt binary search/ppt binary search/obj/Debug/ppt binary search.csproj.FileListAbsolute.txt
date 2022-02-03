@@ -1,0 +1,8 @@
+C:\krish\c#\PPT\ppt binary search\ppt binary search\bin\Debug\ppt binary search.exe.config
+C:\krish\c#\PPT\ppt binary search\ppt binary search\bin\Debug\ppt binary search.exe
+C:\krish\c#\PPT\ppt binary search\ppt binary search\bin\Debug\ppt binary search.pdb
+C:\krish\c#\PPT\ppt binary search\ppt binary search\obj\Debug\ppt binary search.csproj.AssemblyReference.cache
+C:\krish\c#\PPT\ppt binary search\ppt binary search\obj\Debug\ppt binary search.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\PPT\ppt binary search\ppt binary search\obj\Debug\ppt binary search.csproj.CoreCompileInputs.cache
+C:\krish\c#\PPT\ppt binary search\ppt binary search\obj\Debug\ppt binary search.exe
+C:\krish\c#\PPT\ppt binary search\ppt binary search\obj\Debug\ppt binary search.pdb

@@ -1,0 +1,8 @@
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\obj\Debug\ppt bubble sort.csproj.AssemblyReference.cache
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\obj\Debug\ppt bubble sort.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\obj\Debug\ppt bubble sort.csproj.CoreCompileInputs.cache
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\bin\Debug\ppt bubble sort.exe.config
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\bin\Debug\ppt bubble sort.exe
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\bin\Debug\ppt bubble sort.pdb
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\obj\Debug\ppt bubble sort.exe
+C:\krish\c#\PPT\ppt bubble sort\ppt bubble sort\obj\Debug\ppt bubble sort.pdb

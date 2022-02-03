@@ -1,0 +1,8 @@
+C:\krish\c#\PPT\ppt linear search\ppt linear search\bin\Debug\ppt linear search.exe.config
+C:\krish\c#\PPT\ppt linear search\ppt linear search\bin\Debug\ppt linear search.exe
+C:\krish\c#\PPT\ppt linear search\ppt linear search\bin\Debug\ppt linear search.pdb
+C:\krish\c#\PPT\ppt linear search\ppt linear search\obj\Debug\ppt linear search.csproj.AssemblyReference.cache
+C:\krish\c#\PPT\ppt linear search\ppt linear search\obj\Debug\ppt linear search.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\PPT\ppt linear search\ppt linear search\obj\Debug\ppt linear search.csproj.CoreCompileInputs.cache
+C:\krish\c#\PPT\ppt linear search\ppt linear search\obj\Debug\ppt linear search.exe
+C:\krish\c#\PPT\ppt linear search\ppt linear search\obj\Debug\ppt linear search.pdb
