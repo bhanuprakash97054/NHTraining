@@ -1,0 +1,8 @@
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\bin\Debug\Day10 evng project1.exe.config
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\bin\Debug\Day10 evng project1.exe
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\bin\Debug\Day10 evng project1.pdb
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\obj\Debug\Day10 evng project1.csproj.AssemblyReference.cache
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\obj\Debug\Day10 evng project1.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\obj\Debug\Day10 evng project1.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\obj\Debug\Day10 evng project1.exe
+C:\krish\c#\Day10\Day10 evng project1\Day10 evng project1\obj\Debug\Day10 evng project1.pdb
