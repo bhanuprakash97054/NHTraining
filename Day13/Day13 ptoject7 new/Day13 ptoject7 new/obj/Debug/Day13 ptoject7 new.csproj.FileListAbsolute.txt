@@ -1,0 +1,8 @@
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\bin\Debug\Day13 ptoject7 new.exe.config
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\bin\Debug\Day13 ptoject7 new.exe
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\bin\Debug\Day13 ptoject7 new.pdb
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\obj\Debug\Day13 ptoject7 new.csproj.AssemblyReference.cache
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\obj\Debug\Day13 ptoject7 new.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\obj\Debug\Day13 ptoject7 new.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\obj\Debug\Day13 ptoject7 new.exe
+C:\krish\c#\Day13\Day13 ptoject7 new\Day13 ptoject7 new\obj\Debug\Day13 ptoject7 new.pdb

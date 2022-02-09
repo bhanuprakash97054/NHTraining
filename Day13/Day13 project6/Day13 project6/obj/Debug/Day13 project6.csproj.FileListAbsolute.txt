@@ -1,0 +1,7 @@
+C:\krish\c#\Day13\Day13 project6\Day13 project6\bin\Debug\Day13 project6.exe.config
+C:\krish\c#\Day13\Day13 project6\Day13 project6\bin\Debug\Day13 project6.exe
+C:\krish\c#\Day13\Day13 project6\Day13 project6\bin\Debug\Day13 project6.pdb
+C:\krish\c#\Day13\Day13 project6\Day13 project6\obj\Debug\Day13 project6.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day13\Day13 project6\Day13 project6\obj\Debug\Day13 project6.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day13\Day13 project6\Day13 project6\obj\Debug\Day13 project6.exe
+C:\krish\c#\Day13\Day13 project6\Day13 project6\obj\Debug\Day13 project6.pdb
