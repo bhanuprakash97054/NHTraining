@@ -1,0 +1,3 @@
+C:\krish\c#\Day14\Day14 project7\Day14 project7\obj\Debug\Day14 project7.csproj.AssemblyReference.cache
+C:\krish\c#\Day14\Day14 project7\Day14 project7\obj\Debug\Day14 project7.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day14\Day14 project7\Day14 project7\obj\Debug\Day14 project7.csproj.CoreCompileInputs.cache
