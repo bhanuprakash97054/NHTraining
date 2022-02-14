@@ -1,0 +1,5 @@
+C:\krish\c#\Day16\BhanuLibrary\BhanuLibrary\bin\Debug\BhanuLibrary.dll
+C:\krish\c#\Day16\BhanuLibrary\BhanuLibrary\bin\Debug\BhanuLibrary.pdb
+C:\krish\c#\Day16\BhanuLibrary\BhanuLibrary\obj\Debug\BhanuLibrary.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day16\BhanuLibrary\BhanuLibrary\obj\Debug\BhanuLibrary.dll
+C:\krish\c#\Day16\BhanuLibrary\BhanuLibrary\obj\Debug\BhanuLibrary.pdb
