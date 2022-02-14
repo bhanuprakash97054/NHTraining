@@ -21,7 +21,6 @@ namespace Day16_project1
         {
             HelloWorld h = new HelloWorld();
             h.ReadData();
-           
             Console.ReadLine();
         }
     }
