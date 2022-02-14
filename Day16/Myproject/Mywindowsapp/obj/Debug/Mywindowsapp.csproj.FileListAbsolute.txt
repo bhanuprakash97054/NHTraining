@@ -1,0 +1,16 @@
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Mywindowsapp.exe.config
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Mywindowsapp.exe
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Mywindowsapp.pdb
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Bhanulibrary.dll
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Publiclibrary.dll
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Bhanulibrary.pdb
+C:\krish\c#\Day16\Myproject\Mywindowsapp\bin\Debug\Publiclibrary.pdb
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.csproj.AssemblyReference.cache
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.Form1.resources
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.Properties.Resources.resources
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.csproj.GenerateResource.cache
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.csproj.CopyComplete
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.exe
+C:\krish\c#\Day16\Myproject\Mywindowsapp\obj\Debug\Mywindowsapp.pdb

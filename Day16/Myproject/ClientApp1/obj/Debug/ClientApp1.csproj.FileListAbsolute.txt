@@ -1,0 +1,13 @@
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\ClientApp1.exe.config
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\ClientApp1.exe
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\ClientApp1.pdb
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\Bhanulibrary.dll
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\Publiclibrary.dll
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\Bhanulibrary.pdb
+C:\krish\c#\Day16\Myproject\ClientApp1\bin\Debug\Publiclibrary.pdb
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.csproj.AssemblyReference.cache
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.csproj.SuggestedBindingRedirects.cache
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.csproj.CopyComplete
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.exe
+C:\krish\c#\Day16\Myproject\ClientApp1\obj\Debug\ClientApp1.pdb

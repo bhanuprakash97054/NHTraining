@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87d75bed-fb4c-4276-9010-c31e1e844570": {
+      "ProjectGuid": "87d75bed-fb4c-4276-9010-c31e1e844570",
+      "DisplayName": "Bhanulibrary",
+      "ColorIndex": 0
+    },
+    "495ebd20-29e8-497d-8256-83e73899b7be": {
+      "ProjectGuid": "495ebd20-29e8-497d-8256-83e73899b7be",
+      "DisplayName": "Publiclibrary",
+      "ColorIndex": 1
+    },
+    "a513fc45-fc75-4487-af4d-2becfc615107": {
+      "ProjectGuid": "a513fc45-fc75-4487-af4d-2becfc615107",
+      "DisplayName": "Clientapp",
+      "ColorIndex": 2
+    },
+    "2fa186e9-9785-48f2-ad48-6ac78d19f7ef": {
+      "ProjectGuid": "2fa186e9-9785-48f2-ad48-6ac78d19f7ef",
+      "DisplayName": "ClientApp1",
+      "ColorIndex": 3
+    },
+    "75f80da3-e73d-43db-b93a-d50ce3432079": {
+      "ProjectGuid": "75f80da3-e73d-43db-b93a-d50ce3432079",
+      "DisplayName": "Mywindowsapp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
