@@ -5,22 +5,22 @@ using System.Text;
 using System.Threading.Tasks;
 using Main_library;
 
-namespace Day16_project3
+namespace Day16_project4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Mathematics m = new Mathematics();
-            m.Factorial(5);
-            m.Add(5, 5);
-            m.MUl(5,5);
+            Console.WriteLine(m.Factorial(5));
+            Console.WriteLine( m.Add(5, 5));
+            Console.WriteLine(m.MUl(5, 5));
             Physics p = new Physics();
-            p.Finalvelocity(5,2,3);
+            Console.WriteLine(p.Finalvelocity(5, 2, 3));
             Chamistry c = new Chamistry();
-            c.Getbenzene();
-            c.Getwater();
-            c.Methane();
+            Console.WriteLine(c.Getbenzene());
+            Console.WriteLine(c.Getwater());
+            Console.WriteLine(c.Methane());
             Console.ReadLine();
         }
     }

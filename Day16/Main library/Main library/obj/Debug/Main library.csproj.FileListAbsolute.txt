@@ -1,0 +1,5 @@
+C:\krish\c#\Day16\Main library\Main library\bin\Debug\Main library.dll
+C:\krish\c#\Day16\Main library\Main library\bin\Debug\Main library.pdb
+C:\krish\c#\Day16\Main library\Main library\obj\Debug\Main library.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day16\Main library\Main library\obj\Debug\Main library.dll
+C:\krish\c#\Day16\Main library\Main library\obj\Debug\Main library.pdb
