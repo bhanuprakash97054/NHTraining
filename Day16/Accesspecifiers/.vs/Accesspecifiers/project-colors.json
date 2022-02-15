@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d619ba1c-ff74-41bc-a55a-b1383f83aa82": {
+      "ProjectGuid": "d619ba1c-ff74-41bc-a55a-b1383f83aa82",
+      "DisplayName": "Bhanulibrary",
+      "ColorIndex": 0
+    },
+    "994d7fd0-fe4f-4d59-b1f0-a88dcbb47a56": {
+      "ProjectGuid": "994d7fd0-fe4f-4d59-b1f0-a88dcbb47a56",
+      "DisplayName": "Publiclibrary",
+      "ColorIndex": 1
+    },
+    "8d2cca91-a4eb-4a3c-b96e-a48f0048ae18": {
+      "ProjectGuid": "8d2cca91-a4eb-4a3c-b96e-a48f0048ae18",
+      "DisplayName": "Accesspecifiers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

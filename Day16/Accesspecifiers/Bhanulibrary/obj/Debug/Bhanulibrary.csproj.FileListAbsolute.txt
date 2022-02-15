@@ -1,0 +1,5 @@
+C:\krish\c#\Day16\Accesspecifiers\Bhanulibrary\bin\Debug\Bhanulibrary.dll
+C:\krish\c#\Day16\Accesspecifiers\Bhanulibrary\bin\Debug\Bhanulibrary.pdb
+C:\krish\c#\Day16\Accesspecifiers\Bhanulibrary\obj\Debug\Bhanulibrary.csproj.CoreCompileInputs.cache
+C:\krish\c#\Day16\Accesspecifiers\Bhanulibrary\obj\Debug\Bhanulibrary.dll
+C:\krish\c#\Day16\Accesspecifiers\Bhanulibrary\obj\Debug\Bhanulibrary.pdb
