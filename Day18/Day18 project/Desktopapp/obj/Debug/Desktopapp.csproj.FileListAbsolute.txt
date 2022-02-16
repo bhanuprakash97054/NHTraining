@@ -1,0 +1,14 @@
+C:\Krish\c#\Day18\Day18 project\Desktopapp\bin\Debug\Desktopapp.exe.config
+C:\Krish\c#\Day18\Day18 project\Desktopapp\bin\Debug\Desktopapp.exe
+C:\Krish\c#\Day18\Day18 project\Desktopapp\bin\Debug\Desktopapp.pdb
+C:\Krish\c#\Day18\Day18 project\Desktopapp\bin\Debug\Mathematicslibrary.dll
+C:\Krish\c#\Day18\Day18 project\Desktopapp\bin\Debug\Mathematicslibrary.pdb
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.csproj.AssemblyReference.cache
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.csproj.SuggestedBindingRedirects.cache
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.Form1.resources
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.Properties.Resources.resources
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.csproj.GenerateResource.cache
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.csproj.CoreCompileInputs.cache
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.csproj.CopyComplete
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.exe
+C:\Krish\c#\Day18\Day18 project\Desktopapp\obj\Debug\Desktopapp.pdb

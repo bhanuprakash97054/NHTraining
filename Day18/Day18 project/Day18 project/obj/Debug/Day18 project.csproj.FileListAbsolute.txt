@@ -1,0 +1,11 @@
+C:\Krish\c#\Day18\Day18 project\Day18 project\bin\Debug\Day18 project.exe.config
+C:\Krish\c#\Day18\Day18 project\Day18 project\bin\Debug\Day18 project.exe
+C:\Krish\c#\Day18\Day18 project\Day18 project\bin\Debug\Day18 project.pdb
+C:\Krish\c#\Day18\Day18 project\Day18 project\bin\Debug\Mathematicslibrary.dll
+C:\Krish\c#\Day18\Day18 project\Day18 project\bin\Debug\Mathematicslibrary.pdb
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.csproj.AssemblyReference.cache
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.csproj.SuggestedBindingRedirects.cache
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.csproj.CoreCompileInputs.cache
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.csproj.CopyComplete
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.exe
+C:\Krish\c#\Day18\Day18 project\Day18 project\obj\Debug\Day18 project.pdb

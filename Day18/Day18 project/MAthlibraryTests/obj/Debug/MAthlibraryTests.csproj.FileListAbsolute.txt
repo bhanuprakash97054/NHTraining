@@ -1,0 +1,17 @@
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\MAthlibraryTests.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\MAthlibraryTests.pdb
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\MAthlibrary.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\MAthlibrary.pdb
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\obj\Debug\MAthlibraryTests.csproj.AssemblyReference.cache
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\obj\Debug\MAthlibraryTests.csproj.CoreCompileInputs.cache
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\obj\Debug\MAthlibraryTests.csproj.CopyComplete
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\obj\Debug\MAthlibraryTests.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibraryTests\obj\Debug\MAthlibraryTests.pdb

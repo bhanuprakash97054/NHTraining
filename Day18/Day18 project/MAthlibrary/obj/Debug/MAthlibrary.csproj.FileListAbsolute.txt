@@ -1,0 +1,5 @@
+C:\Krish\c#\Day18\Day18 project\MAthlibrary\bin\Debug\MAthlibrary.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibrary\bin\Debug\MAthlibrary.pdb
+C:\Krish\c#\Day18\Day18 project\MAthlibrary\obj\Debug\MAthlibrary.csproj.CoreCompileInputs.cache
+C:\Krish\c#\Day18\Day18 project\MAthlibrary\obj\Debug\MAthlibrary.dll
+C:\Krish\c#\Day18\Day18 project\MAthlibrary\obj\Debug\MAthlibrary.pdb
