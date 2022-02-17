@@ -20,35 +20,51 @@ namespace MAthlibrary.Tests
             //act
             int actual = Mathoperations.FindFactorial(n);
             //assert
-            Assert.AreEqual(expected, actual);  
+            Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void FindFactorialTest_Onetoseven()
         {
             //arrange
             int n = 5;
-            int expected = 120;   
+            int expected = 120;
             //act
-            int actual=Mathoperations.FindFactorial(n); 
+            int actual = Mathoperations.FindFactorial(n);
             //assert
-            Assert.AreEqual(expected , actual);
+            Assert.AreEqual(expected, actual);
         }
-        public void FindFactorialTest_graetertahn7()
+        [TestMethod()]
+        public void FindFactorialTest_graeterthan7()
         {
             //arrange
             int n = 9;
             int expected = -999;
             //act
-            int actual=Mathoperations.FindFactorial(n);    
+            int actual = Mathoperations.FindFactorial(n);
             //assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void FindFactorialTest_Lessthan0()
         {
             //arrange
             int n = -10;
             int expected = -9999;
             //act
-            int actual= Mathoperations.FindFactorial(n);    
+            int actual = Mathoperations.FindFactorial(n);
+            //assert
+            Assert.AreEqual(expected, actual);
+
+        }
+
+        [TestMethod()]
+        public void IsPalindromeTest()
+        {
+            //arrange
+            int input = 353;
+            int expected = 353;
+            //art
+            int actual=Mathoperations.IsPalindrome(input);
             //assert
             Assert.AreEqual(expected, actual);
         }

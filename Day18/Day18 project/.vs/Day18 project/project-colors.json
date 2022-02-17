@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "360f2b23-fa71-4083-bdc7-3c617394ff9f": {
+      "ProjectGuid": "360f2b23-fa71-4083-bdc7-3c617394ff9f",
+      "DisplayName": "Day18 project",
+      "ColorIndex": 0
+    },
+    "17f26e36-f4e4-4bce-8ad6-6d5c036f9f3a": {
+      "ProjectGuid": "17f26e36-f4e4-4bce-8ad6-6d5c036f9f3a",
+      "DisplayName": "Mathematicslibrary",
+      "ColorIndex": 1
+    },
+    "80649a20-6299-4772-9ab9-b06d2f47e5c8": {
+      "ProjectGuid": "80649a20-6299-4772-9ab9-b06d2f47e5c8",
+      "DisplayName": "Desktopapp",
+      "ColorIndex": 2
+    },
+    "a794354f-50a5-4992-9a98-5c88c3a1f8a6": {
+      "ProjectGuid": "a794354f-50a5-4992-9a98-5c88c3a1f8a6",
+      "DisplayName": "MAthlibrary",
+      "ColorIndex": 3
+    },
+    "d4fcd1eb-8a2b-4703-b013-72e50603335d": {
+      "ProjectGuid": "d4fcd1eb-8a2b-4703-b013-72e50603335d",
+      "DisplayName": "Findingmath",
+      "ColorIndex": 4
+    },
+    "9c757800-4906-4e2b-ac92-5d6604247c1e": {
+      "ProjectGuid": "9c757800-4906-4e2b-ac92-5d6604247c1e",
+      "DisplayName": "MAthlibraryTests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
