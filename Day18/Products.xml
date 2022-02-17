@@ -1,0 +1,52 @@
+<Products>
+ <Product>
+    <brand>puma</brand>
+    <price>1000</price>
+    <quantity>1</quantity>
+ </Product>
+<Product>
+    <brand>nike</brand>
+    <price>2000</price>
+    <quantity>2</quantity>
+ </Product>
+<Product>
+    <brand>addidas</brand>
+    <price>3000</price>
+    <quantity>3</quantity>
+ </Product>
+<Product>
+    <brand>tommyhilfiger</brand>
+    <price>4000</price>
+    <quantity>4</quantity>
+ </Product>
+<Product>
+    <brand>armani</brand>
+    <price>5000</price>
+    <quantity>5</quantity>
+ </Product>
+<Product>
+    <brand>levis</brand>
+    <price>6000</price>
+    <quantity>6</quantity>
+ </Product>
+<Product>
+    <brand>zara</brand>
+    <price>7000</price>
+    <quantity>7</quantity>
+ </Product>
+<Product>
+    <brand>calvinklein</brand>
+    <price>8000</price>
+    <quantity>8</quantity>
+ </Product>
+<Product>
+    <brand>prada</brand>
+    <price>9000</price>
+    <quantity>9</quantity>
+ </Product>
+<Product>
+    <brand>gucci</brand>
+    <price>10000</price>
+    <quantity>10</quantity>
+ </Product>
+</Products>

@@ -1,0 +1,12 @@
+<Products>
+<Product brand="puma" price="1000" quantity="1" />
+<Product brand="nike" price="2000" quantity="2" />
+<Product brand="addidas" price="3000" quantity="3" />
+<Product brand="tommyhilfiger" price="4000" quantity="4" />
+<Product brand="armani" price="5000" quantity="5" />
+<Product brand="zara" price="6000" quantity="6" />
+<Product brand="calvinklein" price="7000" quantity="7" />
+<Product brand="prada" price="8000" quantity="8" />
+<Product brand="gucci" price="9000" quantity="9" />
+<Product brand="bhanu" price="10000" quantity="10" />
+</Products>
