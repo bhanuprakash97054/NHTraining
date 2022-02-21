@@ -1,0 +1,11 @@
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Krish\c#\NHTraining\Day21\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb

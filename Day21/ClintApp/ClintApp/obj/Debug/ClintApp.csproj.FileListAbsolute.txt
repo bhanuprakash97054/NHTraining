@@ -1,0 +1,8 @@
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\bin\Debug\ClintApp.exe.config
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\bin\Debug\ClintApp.exe
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\bin\Debug\ClintApp.pdb
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\obj\Debug\ClintApp.csproj.AssemblyReference.cache
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\obj\Debug\ClintApp.csproj.SuggestedBindingRedirects.cache
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\obj\Debug\ClintApp.csproj.CoreCompileInputs.cache
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\obj\Debug\ClintApp.exe
+C:\Krish\c#\NHTraining\Day21\ClintApp\ClintApp\obj\Debug\ClintApp.pdb
