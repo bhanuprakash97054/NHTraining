@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d8115ca-0c41-4349-a23c-f7a9cbe14cd4": {
+      "ProjectGuid": "1d8115ca-0c41-4349-a23c-f7a9cbe14cd4",
+      "DisplayName": "MyfinalProject",
+      "ColorIndex": 0
+    },
+    "c86af372-df93-4f70-be14-013510a64981": {
+      "ProjectGuid": "c86af372-df93-4f70-be14-013510a64981",
+      "DisplayName": "MyClintApp",
+      "ColorIndex": 1
+    },
+    "793d9c63-8a33-422f-bce3-e5a43c81ba85": {
+      "ProjectGuid": "793d9c63-8a33-422f-bce3-e5a43c81ba85",
+      "DisplayName": "DataAccesLibrary",
+      "ColorIndex": 2
+    },
+    "a09ae455-eda8-49ba-b857-ce658565d1ea": {
+      "ProjectGuid": "a09ae455-eda8-49ba-b857-ce658565d1ea",
+      "DisplayName": "BiginessLogicLibrary",
+      "ColorIndex": 3
+    },
+    "da72b693-49bf-44a2-a66b-8cb8ac76925a": {
+      "ProjectGuid": "da72b693-49bf-44a2-a66b-8cb8ac76925a",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

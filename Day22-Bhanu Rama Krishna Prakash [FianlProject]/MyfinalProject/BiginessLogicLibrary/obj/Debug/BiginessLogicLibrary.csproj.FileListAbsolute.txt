@@ -1,0 +1,9 @@
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\bin\Debug\BiginessLogicLibrary.dll
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\bin\Debug\BiginessLogicLibrary.pdb
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\bin\Debug\DataAccesLibrary.dll
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\bin\Debug\DataAccesLibrary.pdb
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\obj\Debug\BiginessLogicLibrary.csproj.AssemblyReference.cache
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\obj\Debug\BiginessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\obj\Debug\BiginessLogicLibrary.csproj.CopyComplete
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\obj\Debug\BiginessLogicLibrary.dll
+C:\Krish\c#\NHTraining\Day22-Bhanu Rama Krishna Prakash [FianlProject]\MyfinalProject\BiginessLogicLibrary\obj\Debug\BiginessLogicLibrary.pdb
